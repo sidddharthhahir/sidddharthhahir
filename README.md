@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Siddharth Ahir</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Ahir</h1>
 <p align="center">
-  Junior Full‑Stack Developer · Django · React · Node · Postgres · Supabase<br/>
+  Full-Stack Developer · AI-powered Web Apps · React · Django · Node · Supabase<br/>
   Berlin, Germany · he/him
 </p>
 
@@ -10,12 +10,23 @@
   <a href="https://www.linkedin.com/in/siddharth-ahir-798754262/" target="_blank">LinkedIn</a>
 </p>
 
-<p align="center"><b>I’m not saying my GitHub is the best you’ll see today—just that it’s the one you’ll remember.</b></p>
+<p align="center">
+  <b>I build products that are simple to use, hard to break, and easy to extend.</b>
+</p>
+
+---
 
 ## 👤 About me
 
-I build responsive, data-driven web apps end‑to‑end, with REST APIs, auth, and clean UIs. I like fast iteration: ship → test → measure → improve.  
-MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑time from 01/2026.
+I’m a **full-stack developer** who enjoys building **end-to-end, data-driven products** — from clean UIs to scalable backends and AI-assisted features.
+
+I value fast, disciplined iteration:  
+**ship → observe → measure → refine**.
+
+Currently completing my **MSc in Computer Science (IU, Berlin)**.  
+Work authorisation: **Germany (Student, 20h/week)** · **Full-time from 01/2026**.
+
+---
 
 ## 👨‍💻 Technologies I work with
 
@@ -35,20 +46,37 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
-## 💡 What I'm learning now
+---
 
-- LLM apps: prompt engineering, RAG pipelines, and offline evaluation of retrieval quality  
-- Backend APIs: FastAPI + Django for async inference, caching, and rate limiting  
-- Vector + keyword search: embeddings, hybrid search (BM25 + vectors), and re‑ranking  
-- Postgres/Supabase: indexing, partitions, RLS policies, and query‑plan tuning  
-- CI/CD & Ops: Dockerized builds, GitHub Actions with test gates, and zero‑downtime deploys  
-- Testing & observability: PyTest/Jest coverage, structured logging, and basic tracing/metrics
+## 💡 What I’m focused on right now
 
-## 🚧 Ongoing
+- **LLM-powered apps**: prompt engineering, RAG pipelines, evaluation of retrieval quality  
+- **Backend APIs**: Django & FastAPI for async workloads, caching, and rate limiting  
+- **Search systems**: embeddings, hybrid search (BM25 + vectors), and re-ranking  
+- **Postgres / Supabase**: indexing, RLS policies, query-plan tuning  
+- **CI/CD & Ops**: Dockerized builds, GitHub Actions, zero-downtime deploys  
+- **Testing & observability**: PyTest/Jest coverage, structured logging, basic metrics
 
-- 🚧 📊 Game KPI Dashboard — Server‑side filters and sub‑second charts on ~5k rows using React, Node, and Supabase with cached APIs. [Repo →](https://github.com/sidddharthhahir/Dashboard)
-- 🚧 🎬 Movie Database — TMDB‑powered browsing with ML‑explained recommendations (SHAP) on Django + Supabase; ~120 ms cached rec fetch. [Repo →](https://github.com/sidddharthhahir/MovieDatabase)
+---
 
-## ⚡ Quote
+## ✅ Recent Projects
 
-"The best engineers don’t write perfect code. They write testable code — perfectly."
+- ✅ **📊 Game KPI Dashboard**  
+  Server-side filtering and sub-second charts on ~5k rows using React, Node, and Supabase with cached APIs.  
+  👉 https://github.com/sidddharthhahir/Dashboard
+
+- ✅ **🎬 Movie Database & Recommender**  
+  TMDB-powered browsing with ML-explained recommendations (SHAP) using Django + Supabase.  
+  Cached recommendation fetch ~120 ms.  
+  👉 https://github.com/sidddharthhahir/MovieDatabase
+
+- ✅ **🏋️ PocketFit AI Coach**  
+  A daily fitness & lifestyle companion with AI-generated plans, habit tracking, countdowns, and progress insights.  
+  👉 https://github.com/sidddharthhahir/pocketfit-ai-coach
+
+---
+
+## ⚡ Engineering mindset
+
+> “The best engineers don’t write perfect code.  
+> They write **testable** code — perfectly.”
