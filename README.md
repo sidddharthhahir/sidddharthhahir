@@ -15,12 +15,6 @@
   <b>I ship end-to-end products that are simple to use, hard to break, and easy to extend.</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f" />
-  <img src="https://img.shields.io/badge/Location-Berlin-blue" />
-  <img src="https://img.shields.io/badge/Work%20Auth-DE%20(Student%2020h%2Fwk)%20→%20Full-time%2004%2F2026-success" />
-</p>
-
 ---
 
 ## 👤 About me
