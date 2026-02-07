@@ -24,7 +24,6 @@ I value fast, disciplined iteration:
 **ship → observe → measure → refine**.
 
 Currently completing my **MSc in Computer Science (IU, Berlin)**.  
-Work authorisation: **Germany (Student, 20h/week)** · **Full-time from 01/2026**.
 
 ---
 
