@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Ahir</h1>
+
 <p align="center">
-  Full-Stack Developer · AI-powered Web Apps · React · Django · Node · Supabase<br/>
+  Full-Stack Developer · AI-Powered Web Apps · React · Django · Node · Supabase<br/>
   Berlin, Germany · he/him
 </p>
 
@@ -11,71 +12,114 @@
 </p>
 
 <p align="center">
-  <b>I build products that are simple to use, hard to break, and easy to extend.</b>
+  <b>I ship end-to-end products that are simple to use, hard to break, and easy to extend.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f" />
+  <img src="https://img.shields.io/badge/Location-Berlin-blue" />
+  <img src="https://img.shields.io/badge/Work%20Auth-DE%20(Student%2020h%2Fwk)%20→%20Full-time%2004%2F2026-success" />
 </p>
 
 ---
 
 ## 👤 About me
 
-I’m a **full-stack developer** who enjoys building **end-to-end, data-driven products** — from clean UIs to scalable backends and AI-assisted features.
+I’m a **full-stack developer** focused on **rapid product delivery and AI integration**.  
+I enjoy building **end-to-end, data-driven applications** — from clean React UIs to scalable backends and AI-assisted features.
 
-I value fast, disciplined iteration:  
-**ship → observe → measure → refine**.
+My default workflow:
+**ship → observe → measure → refine**
 
-Currently completing my **MSc in Computer Science (IU, Berlin)**.  
+Currently completing my **MSc in Computer Science (IU, Berlin)**.
 
 ---
 
-## 👨‍💻 Technologies I work with
+## 🧠 Core Strengths (from real projects)
 
+- Building **production-ready React + TypeScript apps**
+- Designing **REST APIs** with Django / Node
+- Working with **PostgreSQL & Supabase** (RLS, indexing, query tuning)
+- Integrating **LLMs** for explanations, automation, and insights
+- Optimizing performance (cached APIs, sub-second queries)
+- Shipping complete products — not just demos
+
+---
+
+## 👨‍💻 Technologies
+
+### Frontend
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</p>
+
+### AI / DevOps
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Ollama%20%7C%20RAG-informational" />
+  <img src="https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-orange" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-## 💡 What I’m focused on right now
+## 💡 What I’m focusing on now
 
-- **LLM-powered apps**: prompt engineering, RAG pipelines, evaluation of retrieval quality  
-- **Backend APIs**: Django & FastAPI for async workloads, caching, and rate limiting  
-- **Search systems**: embeddings, hybrid search (BM25 + vectors), and re-ranking  
-- **Postgres / Supabase**: indexing, RLS policies, query-plan tuning  
-- **CI/CD & Ops**: Dockerized builds, GitHub Actions, zero-downtime deploys  
-- **Testing & observability**: PyTest/Jest coverage, structured logging, basic metrics
+- **LLM-powered applications**: prompt engineering, RAG pipelines, evaluation
+- **Explainable AI**: SHAP / LIME for transparent recommendations
+- **Backend performance**: caching, async workloads, rate limiting
+- **Search systems**: hybrid search (BM25 + vectors), re-ranking
+- **Production quality**: CI/CD, Dockerized builds, clean architecture
 
 ---
 
-## ✅ Recent Projects
+## ✅ Highlight Projects
 
-- ✅ **📊 Game KPI Dashboard**  
-  Server-side filtering and sub-second charts on ~5k rows using React, Node, and Supabase with cached APIs.  
-  👉 https://github.com/sidddharthhahir/Dashboard
+### 🏋️ PocketFit AI Coach (Live)
+AI-assisted fitness & lifestyle companion with daily focus, habit tracking, countdowns, and progress insights.  
+**Stack:** React, TypeScript, Supabase, AI Edge Functions  
+👉 https://github.com/sidddharthhahir/pocketfit-ai-coach
 
-- ✅ **🎬 Movie Database & Recommender**  
-  TMDB-powered browsing with ML-explained recommendations (SHAP) using Django + Supabase.  
-  Cached recommendation fetch ~120 ms.  
-  👉 https://github.com/sidddharthhahir/MovieDatabase
+---
 
-- ✅ **🏋️ PocketFit AI Coach**  
-  A daily fitness & lifestyle companion with AI-generated plans, habit tracking, countdowns, and progress insights.  
-  👉 https://github.com/sidddharthhahir/pocketfit-ai-coach
+### 🎬 MovieWise XAI
+Hybrid recommender system using **LightFM** with **LLM-generated explanations** grounded via **RAG (TF-IDF)**.  
+**Stack:** Django, LightFM, Ollama, SHAP/LIME  
+👉 https://github.com/sidddharthhahir/MovieWise-XAI
+
+---
+
+### 📊 Game KPI Dashboard
+High-performance analytics dashboard with server-side filtering and cached APIs.  
+Sub-second queries on ~5k rows.  
+**Stack:** React, Node, Supabase  
+👉 https://github.com/sidddharthhahir/Dashboard
+
+---
+
+## 🎓 Education
+
+- **MSc Computer Science** — IU International University, Berlin  
+- **Bachelor of Computer Application** — Gujarat University, India
 
 ---
 
 ## ⚡ Engineering mindset
 
 > “The best engineers don’t write perfect code.  
-> They write **testable** code — perfectly.”
+> They write **testable, explainable, and scalable** code — and ship it.”
+
