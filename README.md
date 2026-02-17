@@ -113,10 +113,6 @@ Sub-second queries on ~5k rows.
 👉 https://github.com/sidddharthhahir/Dashboard
 
 ---
-![Next.js](https://img.shields.io/badge/Next.js-13-black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
-![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748)
-
 
 ## 🎓 Education
 
