@@ -91,7 +91,7 @@ Production-ready roommate expense management platform with:
 
 **Stack:** Next.js · Prisma · PostgreSQL · AWS S3 · AI OCR  
 
-🔗 https://github.com/siddharthhahir/roomsplit
+🔗 https://github.com/sidddharthhahir/roomsplit
 
 ---
 
@@ -100,7 +100,7 @@ AI-assisted fitness & lifestyle companion with daily focus tracking and habit an
 
 **Stack:** React · TypeScript · Supabase · Edge Functions  
 
-🔗 https://github.com/siddharthhahir/pocketfit-ai-coach
+🔗 https://github.com/sidddharthhahir/pocketfit-ai-coach
 
 ---
 
@@ -111,7 +111,7 @@ Integrated SHAP/LIME for transparent model interpretability.
 
 **Stack:** Django · LightFM · Ollama · SHAP · RAG  
 
-🔗 https://github.com/siddharthhahir/MovieWise-XAI
+🔗 https://github.com/sidddharthhahir/MovieWise-XAI
 
 ---
 
@@ -122,7 +122,7 @@ Optimized query response times to sub-second latency using caching and structure
 
 **Stack:** React · Node · PostgreSQL  
 
-🔗 https://github.com/siddharthhahir/Dashboard
+🔗 https://github.com/sidddharthhahir/Dashboard
 
 ---
 
