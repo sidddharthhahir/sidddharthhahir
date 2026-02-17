@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Ahir</h1>
 
 <p align="center">
-  Full-Stack Developer · AI-Powered Web Apps · React · Django · Node · Supabase<br/>
+  <b>Full-Stack Engineer | React · Next.js · Node · PostgreSQL | AI-Integrated Systems</b><br/>
   Berlin, Germany · he/him
 </p>
 
@@ -12,31 +12,38 @@
 </p>
 
 <p align="center">
-  <b>I ship end-to-end products that are simple to use, hard to break, and easy to extend.</b>
+  <b>I build end-to-end systems that handle real users, real data, and real edge cases.</b>
 </p>
 
 ---
 
-## 👤 About me
+## 👤 About Me
 
-I’m a **full-stack developer** focused on **rapid product delivery and AI integration**.  
-I enjoy building **end-to-end, data-driven applications** — from clean React UIs to scalable backends and AI-assisted features.
+I'm a **full-stack engineer** focused on building production-ready web applications with integrated AI capabilities.
 
-My default workflow:
+I enjoy designing systems end-to-end — from clean, performant React frontends to scalable backend architectures and intelligent AI-assisted features.
+
+My engineering workflow:
 **ship → observe → measure → refine**
+
+I care deeply about:
+- Clean architecture  
+- Performance under load  
+- Explainable AI systems  
+- Maintainable, testable code  
 
 Currently completing my **MSc in Computer Science (IU, Berlin)**.
 
 ---
 
-## 🧠 Core Strengths (from real projects)
+## 🧠 Core Strengths
 
-- Building **production-ready React + TypeScript apps**
-- Designing **REST APIs** with Django / Node
-- Working with **PostgreSQL & Supabase** (RLS, indexing, query tuning)
-- Integrating **LLMs** for explanations, automation, and insights
-- Optimizing performance (cached APIs, sub-second queries)
-- Shipping complete products — not just demos
+- Building **production-grade React + TypeScript applications**
+- Designing scalable **REST APIs** (Node / Django)
+- Advanced **PostgreSQL & Supabase** usage (RLS, indexing, query tuning)
+- Integrating **LLMs** (RAG pipelines, evaluation, prompt engineering)
+- Performance optimization (caching layers, async workflows, rate limiting)
+- Shipping complete products — not isolated demos
 
 ---
 
@@ -53,17 +60,17 @@ Currently completing my **MSc in Computer Science (IU, Berlin)**.
 
 ### Backend & Data
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 </p>
 
-### AI / DevOps
+### AI / Systems / DevOps
 <p>
-  <img src="https://img.shields.io/badge/LLMs-Ollama%20%7C%20RAG-informational" />
+  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20Evaluation-informational" />
   <img src="https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-orange" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
@@ -71,58 +78,72 @@ Currently completing my **MSc in Computer Science (IU, Berlin)**.
 
 ---
 
-## 💡 What I’m focusing on now
+## 🚀 Featured Projects
 
-- **LLM-powered applications**: prompt engineering, RAG pipelines, evaluation
-- **Explainable AI**: SHAP / LIME for transparent recommendations
-- **Backend performance**: caching, async workloads, rate limiting
-- **Search systems**: hybrid search (BM25 + vectors), re-ranking
-- **Production quality**: CI/CD, Dockerized builds, clean architecture
+### 🏠 RoomSplit
+Production-ready roommate expense management platform with:
+
+- AI-powered OCR receipt scanning  
+- Recurring billing engine  
+- Optimized debt settlement system  
+- Real-time balance tracking  
+- Push notifications  
+
+**Stack:** Next.js · Prisma · PostgreSQL · AWS S3 · AI OCR  
+
+🔗 https://github.com/siddharthhahir/roomsplit
 
 ---
 
-## ✅ Highlight Projects
+### 🏋️ PocketFit – AI Coach (Live)
+AI-assisted fitness & lifestyle companion with daily focus tracking and habit analytics.
 
-## 🚀 RoomSplit
+**Stack:** React · TypeScript · Supabase · Edge Functions  
 
-Full-stack expense management platform for roommates.
-
-Tech: Next.js · Prisma · PostgreSQL · AWS S3 · AI OCR
-
-🔗 Repo: https://github.com/siddharthhahir/roomsplit
-
-
-### 🏋️ PocketFit AI Coach (Live)
-AI-assisted fitness & lifestyle companion with daily focus, habit tracking, countdowns, and progress insights.  
-**Stack:** React, TypeScript, Supabase, AI Edge Functions  
-👉 https://github.com/sidddharthhahir/pocketfit-ai-coach
+🔗 https://github.com/siddharthhahir/pocketfit-ai-coach
 
 ---
 
 ### 🎬 MovieWise XAI
-Hybrid recommender system using **LightFM** with **LLM-generated explanations** grounded via **RAG (TF-IDF)**.  
-**Stack:** Django, LightFM, Ollama, SHAP/LIME  
-👉 https://github.com/sidddharthhahir/MovieWise-XAI
+Hybrid recommendation system using LightFM with LLM-generated explanations grounded via RAG.
+
+Integrated SHAP/LIME for transparent model interpretability.
+
+**Stack:** Django · LightFM · Ollama · SHAP · RAG  
+
+🔗 https://github.com/siddharthhahir/MovieWise-XAI
 
 ---
 
 ### 📊 Game KPI Dashboard
-High-performance analytics dashboard with server-side filtering and cached APIs.  
-Sub-second queries on ~5k rows.  
-**Stack:** React, Node, Supabase  
-👉 https://github.com/sidddharthhahir/Dashboard
+High-performance analytics dashboard with server-side filtering and indexed queries.
+
+Optimized query response times to sub-second latency using caching and structured DB access patterns.
+
+**Stack:** React · Node · PostgreSQL  
+
+🔗 https://github.com/siddharthhahir/Dashboard
+
+---
+
+## 💡 Current Focus
+
+- LLM-powered applications (RAG, evaluation pipelines)
+- Explainable AI systems (SHAP, LIME)
+- Hybrid search systems (BM25 + vector search + re-ranking)
+- Backend performance & scalability
+- Production-grade CI/CD & containerized deployments
+
+---
+
+## ⚡ Engineering Philosophy
+
+> Great engineering is not about writing clever code.  
+> It's about building systems that are reliable, observable, and scalable — and shipping them.
 
 ---
 
 ## 🎓 Education
 
 - **MSc Computer Science** — IU International University, Berlin  
-- **Bachelor of Computer Application** — Gujarat University, India
-
----
-
-## ⚡ Engineering mindset
-
-> “The best engineers don’t write perfect code.  
-> They write **testable, explainable, and scalable** code — and ship it.”
-
+- **Bachelor of Computer Application** — Gujarat University, India  
