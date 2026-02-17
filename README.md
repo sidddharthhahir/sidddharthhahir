@@ -83,6 +83,15 @@ Currently completing my **MSc in Computer Science (IU, Berlin)**.
 
 ## ✅ Highlight Projects
 
+## 🚀 RoomSplit
+
+Full-stack expense management platform for roommates.
+
+Tech: Next.js · Prisma · PostgreSQL · AWS S3 · AI OCR
+
+🔗 Repo: https://github.com/siddharthhahir/roomsplit
+
+
 ### 🏋️ PocketFit AI Coach (Live)
 AI-assisted fitness & lifestyle companion with daily focus, habit tracking, countdowns, and progress insights.  
 **Stack:** React, TypeScript, Supabase, AI Edge Functions  
