@@ -1,149 +1,181 @@
+<!-- Animated AI Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Ahir&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Intelligent%20Systems&descAlignY=55&descAlign=50"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Siddharth Ahir</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer | React · Next.js · Node · PostgreSQL | AI-Integrated Systems</b><br/>
-  Berlin, Germany · he/him
+<b>AI Engineer | LLM Applications · RAG Systems · Recommendation Systems</b><br/>
+Berlin, Germany
 </p>
 
 <p align="center">
-  <a href="mailto:sidahir25820@gmail.com">Email</a> •
-  <a href="https://sid-portfolio.lovable.app/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/siddharth-ahir-798754262/" target="_blank">LinkedIn</a>
+<a href="mailto:sidahir25820@gmail.com">Email</a> •
+<a href="https://sid-portfolio.lovable.app/" target="_blank">Portfolio</a> •
+<a href="https://www.linkedin.com/in/siddharth-ahir-798754262/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">
-  <b>I build end-to-end systems that handle real users, real data, and real edge cases.</b>
+<b>I build intelligent systems that combine machine learning, scalable data architectures, and real-world AI applications.</b>
 </p>
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
-I'm a **full-stack engineer** focused on building production-ready web applications with integrated AI capabilities.
+I'm an **AI-focused software engineer** building production-ready applications powered by **machine learning and large language models**.
 
-I enjoy designing systems end-to-end — from clean, performant React frontends to scalable backend architectures and intelligent AI-assisted features.
+I enjoy designing systems **end-to-end** — from scalable backend architectures and data pipelines to AI-powered product features used by real users.
 
 My engineering workflow:
-**ship → observe → measure → refine**
+**build → measure → improve**
 
-I care deeply about:
-- Clean architecture  
-- Performance under load  
-- Explainable AI systems  
-- Maintainable, testable code  
-
-Currently completing my **MSc in Computer Science (IU, Berlin)**.
+Currently pursuing an **MSc in Computer Science (IU, Berlin)**.
 
 ---
 
-## 🧠 Core Strengths
+# 🧠 Core Strengths
 
-- Building **production-grade React + TypeScript applications**
-- Designing scalable **REST APIs** (Node / Django)
-- Advanced **PostgreSQL & Supabase** usage (RLS, indexing, query tuning)
-- Integrating **LLMs** (RAG pipelines, evaluation, prompt engineering)
-- Performance optimization (caching layers, async workflows, rate limiting)
-- Shipping complete products — not isolated demos
+* Designing **LLM-powered applications**
+* Building **RAG pipelines** for intelligent systems
+* Creating **recommendation systems**
+* Developing **explainable AI models**
+* Building scalable **backend architectures**
+* Shipping **production-ready AI products**
 
 ---
 
-## 👨‍💻 Technologies
+# 👨‍💻 Technologies
 
-### Frontend
+### AI / Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-AI-blue?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Systems-orange" />
+<img src="https://img.shields.io/badge/LLM-Applications-purple" />
+<img src="https://img.shields.io/badge/RAG-Pipelines-green" />
+<img src="https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-red" />
 </p>
 
 ### Backend & Data
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
 </p>
 
-### AI / Systems / DevOps
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20Evaluation-informational" />
-  <img src="https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-orange" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏠 RoomSplit
-Production-ready roommate expense management platform with:
-
-- AI-powered OCR receipt scanning  
-- Recurring billing engine  
-- Optimized debt settlement system  
-- Real-time balance tracking  
-- Push notifications  
-
-**Stack:** Next.js · Prisma · PostgreSQL · AWS S3 · AI OCR  
-
-🔗 https://github.com/sidddharthhahir/roomsplit
-
----
-
-### 🏋️ PocketFit – AI Coach (Live)
-AI-assisted fitness & lifestyle companion with daily focus tracking and habit analytics.
-
-**Stack:** React · TypeScript · Supabase · Edge Functions  
-
-🔗 https://github.com/sidddharthhahir/pocketfit-ai-coach
-
----
+# 🚀 Featured Projects
 
 ### 🎬 MovieWise XAI
-Hybrid recommendation system using LightFM with LLM-generated explanations grounded via RAG.
 
-Integrated SHAP/LIME for transparent model interpretability.
+Explainable movie recommendation system combining hybrid recommendation models with **LLM-generated explanations**.
 
-**Stack:** Django · LightFM · Ollama · SHAP · RAG  
+**Stack:** Python · Django · LightFM · RAG · Ollama · SHAP
 
-🔗 https://github.com/sidddharthhahir/MovieWise-XAI
+🔗
+https://github.com/sidddharthhahir/MovieWise-XAI
+
+---
+
+### 🏠 RoomSplit
+
+Multi-user roommate expense management system with optimized settlement algorithms and scalable relational data architecture.
+
+**Stack:** Next.js · TypeScript · Prisma · PostgreSQL
+
+🔗
+https://github.com/sidddharthhahir/roomsplit
+
+---
+
+### 📄 AI Resume Customizer
+
+AI-powered tool that analyzes job descriptions and automatically tailors resumes using **NLP and LLM-based text generation**.
+
+🔗
+https://github.com/sidddharthhahir/ai-resume-customizer
 
 ---
 
 ### 📊 Game KPI Dashboard
+
 High-performance analytics dashboard with server-side filtering and indexed queries.
 
-Optimized query response times to sub-second latency using caching and structured DB access patterns.
+**Stack:** React · Node.js · PostgreSQL
 
-**Stack:** React · Node · PostgreSQL  
-
-🔗 https://github.com/sidddharthhahir/Dashboard
-
----
-
-## 💡 Current Focus
-
-- LLM-powered applications (RAG, evaluation pipelines)
-- Explainable AI systems (SHAP, LIME)
-- Hybrid search systems (BM25 + vector search + re-ranking)
-- Backend performance & scalability
-- Production-grade CI/CD & containerized deployments
+🔗
+https://github.com/sidddharthhahir/Dashboard
 
 ---
 
-## ⚡ Engineering Philosophy
+# 💡 Current Focus
 
-> Great engineering is not about writing clever code.  
-> It's about building systems that are reliable, observable, and scalable — and shipping them.
+* Building **LLM-powered applications**
+* Designing **RAG pipelines for intelligent systems**
+* Developing **explainable recommendation systems**
+* Creating scalable **AI backend architectures**
 
 ---
 
-## 🎓 Education
+# 📊 GitHub Stats
 
-- **MSc Computer Science** — IU International University, Berlin  
-- **Bachelor of Computer Application** — Gujarat University, India  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Engineering Philosophy
+
+> Great engineering is not about writing clever code.
+> It's about building systems that are reliable, scalable, and useful — and shipping them.
+
+---
+
+# 🎓 Education
+
+**MSc Computer Science** — IU International University, Berlin
+**Bachelor of Computer Application** — Gujarat University, India
+
+---
+
+# 📬 Let's Connect
+
+📧 [sidahir25820@gmail.com](mailto:sidahir25820@gmail.com)
+
+🌐 https://sid-portfolio.lovable.app
+
+💼 https://www.linkedin.com/in/siddharth-ahir-798754262
+
+---
+
+🚀 Open to **AI Engineer / Machine Learning Engineer opportunities**
+📅 Full-time availability from **April 2026**
