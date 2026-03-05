@@ -143,6 +143,15 @@ High-performance analytics dashboard with server-side filtering and indexed quer
 
 ---
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sidddharthhahir/sidddharthhahir/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 # 🎓 Education
 
 **MSc Computer Science**
