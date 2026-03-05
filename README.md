@@ -141,18 +141,6 @@ https://github.com/sidddharthhahir/Dashboard
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # ⚡ Engineering Philosophy
 
 > Great engineering is not about writing clever code.
@@ -175,7 +163,3 @@ https://github.com/sidddharthhahir/Dashboard
 
 💼 https://www.linkedin.com/in/siddharth-ahir-798754262
 
----
-
-🚀 Open to **AI Engineer / Machine Learning Engineer opportunities**
-📅 Full-time availability from **April 2026**
