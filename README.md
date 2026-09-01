@@ -1,174 +1,99 @@
-<!-- Animated Banner -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Ahir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Intelligent%20Systems&descAlignY=55&descAlign=50"/>
-</p>
+<img src="https://sid-portfolio.lovable.app/favicon.ico" width="80" />
 
-<h2 align="center">AI Engineer | LLM Applications • RAG Systems • Recommendation Systems</h2>
+# Siddharth Ahir
 
-<p align="center">
-Berlin, Germany
-</p>
+**AI Engineer · Berlin, Germany**
 
-<p align="center">
-<a href="mailto:sidahir25820@gmail.com">Email</a> •
-<a href="https://sid-portfolio.lovable.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/siddharth-ahir-798754262/">LinkedIn</a>
-</p>
+Twice, our AI cost tracker lied to us. Both times I was the one who noticed.
 
-<p align="center">
-<b>I build intelligent systems that combine machine learning, scalable data architectures, and real-world AI applications.</b>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sid--portfolio.lovable.app-0A66C2?style=flat-square)](https://sid-portfolio.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth--ahir-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/siddharth-ahir-798754262)
+[![Email](https://img.shields.io/badge/Email-sidahir25820%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sidahir25820@gmail.com)
+
+</div>
 
 ---
 
-# 👤 About Me
+### `whoami`
 
-I'm an **AI-focused software engineer** building production-ready applications powered by **machine learning and large language models**.
+I came into AI from full-stack work, expecting the hard part to be the model. It was not. The hard part was proving what a system actually costs, where it actually spends its time, and whether an answer is actually grounded in something real. So that's what I build: LLM backends with receipts — traced, priced, and cited.
 
-I enjoy designing systems **end-to-end** — from scalable backend architectures and data pipelines to AI-powered product features used by real users.
+Currently doing an MSc in Data Science in Berlin, mostly to stop taking the maths on faith.
 
-My engineering workflow:
-**build → measure → improve**
-
-Currently pursuing an **MSc in Computer Science (IU, Berlin)**.
-
----
-
-# 🧠 Core Strengths
-
-* Designing **LLM-powered applications**
-* Building **RAG pipelines** for intelligent systems
-* Creating **recommendation systems**
-* Developing **explainable AI models**
-* Building scalable **backend architectures**
-* Shipping **production-ready AI products**
+```
+> How I work
+  My best projects started as something that was annoying me personally
+  Before I optimise anything, I make it visible — guessing is expensive
+  I read library source code more often than I read papers
+  I would rather delete a clever abstraction than defend it
+  Week one I ask a lot of questions. Week two I am useful.
+```
 
 ---
 
-# 👨‍💻 Technologies
+### `cat key_work.log`
 
-### AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Python-AI-blue?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Systems-orange"/>
-<img src="https://img.shields.io/badge/LLM-Applications-purple"/>
-<img src="https://img.shields.io/badge/RAG-Pipelines-green"/>
-<img src="https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-red"/>
-</p>
-
-### Backend & Data
-
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws"/>
-</p>
+- 🔍 Rolled out **distributed tracing across 8 microservices** — found a single API call eating 88% of total request time
+- 💰 Built **real-time LLM cost tracking** — caught two separate billing bugs before they became real money problems
+- 🧠 Built **embeddings + semantic search pipelines** grounded in real data, not vibes
+- 🏗️ Refactored a core evidence pipeline into a clean, typed architecture — no switch statements, full test coverage
 
 ---
 
-# 🚀 Featured Projects
+### `ls projects/`
 
-### 🎬 MovieWise XAI
-
-Explainable movie recommendation system combining hybrid recommendation models with **LLM-generated explanations**.
-
-**Stack:** Python · Django · LightFM · RAG · Ollama · SHAP
-
-🔗 https://github.com/sidddharthhahir/MovieWise-XAI
-
----
-
-### 🏠 RoomSplit
-
-Multi-user roommate expense management system with optimized settlement algorithms and scalable relational data architecture.
-
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL
-
-🔗 https://github.com/sidddharthhahir/roomsplit
+| Project | What it does |
+|---|---|
+| 📖 **[Madhav](https://github.com/sidddharthhahir/madhav)** | RAG over the Bhagavad Gita — every answer is citation-verified against a real, retrievable verse |
+| ⚡ **[Pulse](https://github.com/sidddharthhahir/Pulse-)** | Five AI agents that research, rank, and draft LinkedIn posts — nothing publishes without a human veto |
+| 🧭 **[Startup Intelligence Agent](https://github.com/sidddharthhahir/startup-intelligence-agent)** | Feed it an idea, get an honest verdict — market size, competition, feasibility, then a landing page |
+| 🎬 **[MovieWise XAI](https://github.com/sidddharthhahir/MovieWise-XAI)** | Master's thesis — a recommender that explains itself in plain language. Graded 1.3 (94/100) |
+| 📄 **[AI Resume Customizer](https://github.com/sidddharthhahir/ai-resume-customizer)** | Parses a resume + JD, tailors it in one click, never invents a skill. It wrote the resume that got me hired |
 
 ---
 
-### 📄 AI Resume Customizer
+### `stack --list`
 
-AI-powered tool that analyzes job descriptions and automatically tailors resumes using **NLP and LLM-based text generation**.
+**AI / LLM**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-FF6F00?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 
-🔗 https://github.com/sidddharthhahir/ai-resume-customizer
+**Backend**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 📊 Game KPI Dashboard
-
-High-performance analytics dashboard with server-side filtering and indexed queries.
-
-**Stack:** React · Node.js · PostgreSQL
-
-🔗 https://github.com/sidddharthhahir/Dashboard
-
----
-
-# 💡 Current Focus
-
-* Building **LLM-powered applications**
-* Designing **RAG pipelines for intelligent systems**
-* Developing **explainable recommendation systems**
-* Creating scalable **AI backend architectures**
-
----
-
-# ⚡ Engineering Philosophy
-
-> Great engineering is not about writing clever code.
-> It's about building systems that are reliable, scalable, and useful — and shipping them.
+**Data & Observability**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square)
 
 ---
 
----
+### `cat goals.md`
 
-# 🐍 Contribution Snake
+**Now — 2026:** Production, not prototypes. Tracing requests across services, keeping AI spend honest, building retrieval that survives contact with real users.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sidddharthhahir/sidddharthhahir/main/github-contribution-grid-snake.svg" />
-</p>
-
-
-# 🎓 Education
-
-**MSc Computer Science**
-IU International University — Berlin
-
-**Bachelor of Computer Application**
-Gujarat University — India
+**Next:** Getting good at the unglamorous parts — evaluation that measures what matters, RAG that holds on the ugly edge cases.
 
 ---
 
-# 📬 Let's Connect
+<div align="center">
 
-📧 [sidahir25820@gmail.com](mailto:sidahir25820@gmail.com)
+*Ask me about the API call that was quietly eating 88% of our request time.*
 
-🌐 https://sid-portfolio.lovable.app
+📫 **sidahir25820@gmail.com** · 🌐 **[sid-portfolio.lovable.app](https://sid-portfolio.lovable.app)**
 
-💼 https://www.linkedin.com/in/siddharth-ahir-798754262
-
----
-
+</div>
