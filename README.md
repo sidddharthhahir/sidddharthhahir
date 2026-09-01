@@ -12,14 +12,22 @@ Berlin, Germany
 </p>
 
 <p align="center">
-<a href="mailto:sidahir25820@gmail.com">Email</a> •
-<a href="https://sid-portfolio.lovable.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/siddharth-ahir-798754262/">LinkedIn</a>
+<a href="mailto:sidahir25820@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://sid-portfolio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/siddharth-ahir-798754262/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
 <b>Most of my code exists to answer one question: can you prove it?</b>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6FE0FF&center=true&vCenter=true&width=600&lines=Building+LLM+systems+with+receipts;Traced.+Priced.+Cited.;Ask+me+about+the+88%25+latency+bug." />
 
 </div>
 
@@ -45,7 +53,7 @@ Currently pursuing an **MSc in Data Science (Arden University, Berlin)**. Previo
 
 ---
 
-# 💼 Currently / Recently — Firmway GmbH, AI Engineer (Working Student)
+# 💼 Firmway GmbH — AI Engineer, Working Student *(Mar 2026 – Aug 2026)*
 
 * Instrumented **8 microservices with distributed tracing** — the exercise itself surfaced a single external API call responsible for 88% of total request latency
 * Designed and shipped **per-call LLM cost accounting** — caught two separate cases where the system was silently under-reporting real spend
@@ -142,7 +150,7 @@ Recommendation systems are usually black boxes; this one has to show its reasoni
 
 ### 📄 AI Resume Customizer
 
-Built this out of frustration with rewriting my own resume for every application. It reads a job description, adjusts emphasis and phrasing to match, and refuses to invent skills you don't have. Also tracks applications and exports clean PDF/DOCX. This is, genuinely, the tool behind the resume that got me my current role.
+Built this out of frustration with rewriting my own resume for every application. It reads a job description, adjusts emphasis and phrasing to match, and refuses to invent skills you don't have. Also tracks applications and exports clean PDF/DOCX. This is, genuinely, the tool behind the resume that got me my last role.
 
 **Stack:** React · Node.js · MySQL · LLM APIs
 
@@ -177,16 +185,8 @@ Thesis: MovieWise XAI — graded 1.3 (94/100)
 
 ---
 
-# 📬 Let's Connect
-
-📧 [sidahir25820@gmail.com](mailto:sidahir25820@gmail.com)
-
-🌐 https://sid-portfolio.lovable.app
-
-💼 https://www.linkedin.com/in/siddharth-ahir-798754262
-
 <div align="center">
 
-*Ask me about the day I found out one API call was eating 88% of our request time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
 
 </div>
