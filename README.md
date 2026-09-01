@@ -202,12 +202,16 @@ Built out of pure frustration with rewriting my resume for every single applicat
 ## 📊 The receipts
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
+<img src="https://raw.githubusercontent.com/sidddharthhahir/sidddharthhahir/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <br/>
