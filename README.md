@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=250&section=header&text=Siddharth%20Ahir&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20building%20systems%20that%20can%20prove%20themselves&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6FE0FF&center=true&vCenter=true&width=700&lines=Twice%2C+our+AI+cost+tracker+lied+to+us.;Both+times%2C+I+was+the+one+who+noticed.;One+API+call+was+eating+88%25+of+our+request+time.;I+found+it.+I+fixed+it.+Ask+me+how." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=6FE0FF&center=true&vCenter=true&width=700&lines=Building+LLM+systems+that+show+their+work;RAG+that+cites+real+sources%2C+not+guesses;Multi-agent+pipelines+with+a+human+in+the+loop;Currently%3A+MSc+Data+Science%2C+Berlin" alt="Typing SVG" />
 
 <br/>
 
@@ -56,9 +56,9 @@ Six months at a Frankfurt-based supply chain intelligence company. Here's what a
 <tr>
 <td width="50%" valign="top">
 
-**The 88% discovery**
+**The hidden bottleneck**
 
-Wired distributed tracing across 8 microservices, mostly to stop guessing where our AI pipeline was slow. Two weeks in, the traces showed one single external API call was responsible for 88% of total request time. Nobody had suspected it. The dashboard did the arguing for me.
+Wired distributed tracing across 8 microservices, mostly to stop guessing where our AI pipeline was slow. The traces surfaced one single external API call responsible for the vast majority of total request time. Nobody had suspected it. The data did the arguing for me.
 
 </td>
 <td width="50%" valign="top">
@@ -92,7 +92,7 @@ Found a legacy module held together by branching logic and switch statements. Re
 ## 🛠️ What's actually in the toolbox
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,django,fastapi,nodejs,react,nextjs,typescript,tailwind,postgres,mysql,docker&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,java,django,fastapi,nodejs,react,nextjs,ts,tailwind,postgres,mysql,docker&perline=6" alt="Skills"/>
 </p>
 
 <div align="center">
@@ -140,7 +140,7 @@ A researcher agent finds topics. A ranker agent picks the good ones. A writer ag
 ### 🧭 Startup Intelligence Agent
 **The AI that told me my idea needed work**
 
-I fed it my own startup idea to test it. It scored it 6/10, told me exactly why, and suggested a sharper angle. Three reasoning passes — market, competition, feasibility — end in a go-to-market plan and a deployable landing page, same session.
+I fed it my own startup idea to test it. It scored it 6 out of 10, told me exactly why, and suggested a sharper angle. Three reasoning passes — market, competition, feasibility — end in a go-to-market plan and a deployable landing page, same session.
 
 `Next.js` `PostgreSQL` `TypeScript` `Structured LLM output`
 
@@ -202,16 +202,12 @@ Built out of pure frustration with rewriting my resume for every single applicat
 ## 📊 The receipts
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sidddharthhahir/sidddharthhahir/main/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <br/>
