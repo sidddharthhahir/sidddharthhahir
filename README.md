@@ -1,192 +1,235 @@
-<!-- Animated Banner -->
 <div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Ahir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Intelligent%20Systems&descAlignY=55&descAlign=50"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=250&section=header&text=Siddharth%20Ahir&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20building%20systems%20that%20can%20prove%20themselves&descAlignY=55&descAlign=50" width="100%"/>
 
-<h2 align="center">AI Engineer | LLM Applications • RAG Systems • Multi-Agent Pipelines</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6FE0FF&center=true&vCenter=true&width=700&lines=Twice%2C+our+AI+cost+tracker+lied+to+us.;Both+times%2C+I+was+the+one+who+noticed.;One+API+call+was+eating+88%25+of+our+request+time.;I+found+it.+I+fixed+it.+Ask+me+how." />
 
-<p align="center">
-Berlin, Germany
-</p>
+<br/>
 
-<p align="center">
 <a href="mailto:sidahir25820@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://sid-portfolio.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/siddharth-ahir-798754262/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
-<p align="center">
-<b>Most of my code exists to answer one question: can you prove it?</b>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6FE0FF&center=true&vCenter=true&width=600&lines=Building+LLM+systems+with+receipts;Traced.+Priced.+Cited.;Ask+me+about+the+88%25+latency+bug." />
+<img src="https://komarev.com/ghpvc/?username=sidddharthhahir&label=Profile+Views&color=6FE0FF&style=flat" />
 
 </div>
 
----
+<br/>
 
-# 👤 About Me
+## 📖 The origin story
 
-I moved into AI from full-stack development, and the assumption I brought with me was wrong. I thought the hard part would be getting a model to give a good answer. It isn't. The hard part is knowing why it gave that answer, what it cost you to get it, and whether you can trust it enough to ship.
+I used to think AI engineering meant getting a model to say something clever.
 
-That's the gap most of my work sits in now — not making AI smarter, but making it accountable.
+Then I got a job where an LLM call went into production, and three questions showed up that no amount of prompt tweaking could answer: **what did that just cost us? how long did it actually take? and can we prove the answer wasn't made up?**
 
-Currently pursuing an **MSc in Data Science (Arden University, Berlin)**. Previously MSc Computer Science at IU International University of Applied Sciences, transferred to go deeper into the maths I was taking on faith.
+Nobody had built for those questions. So I did.
 
----
+That's still the job, six months and a handful of side projects later — building AI systems that don't just work, but can explain themselves when someone asks how.
 
-# 🧠 Working Habits
+<br/>
 
-* If something annoys me enough personally, it usually becomes a project
-* I don't trust a number I can't see — dashboards before optimisation, always
-* Reading someone else's source beats reading their documentation
-* A clever abstraction that nobody can explain in one sentence gets deleted
-* First week: mostly questions. Second week: actually useful
+## 🔬 How I actually work
 
----
+```diff
++ If something annoys me personally, it usually becomes a project
++ I don't trust a number I can't see — dashboards before optimisation, always
++ Reading someone else's source beats reading their documentation
+- A clever abstraction nobody can explain in one sentence — deleted, no eulogy
++ Week one: mostly questions. Week two: actually useful.
+```
 
-# 💼 Firmway GmbH — AI Engineer, Working Student *(Mar 2026 – Aug 2026)*
+<br/>
 
-* Instrumented **8 microservices with distributed tracing** — the exercise itself surfaced a single external API call responsible for 88% of total request latency
-* Designed and shipped **per-call LLM cost accounting** — caught two separate cases where the system was silently under-reporting real spend
-* Built **embedding and semantic-search infrastructure** so retrieval decisions are based on actual similarity, not keyword luck
-* Rebuilt a legacy evidence-handling module into a typed, extensible structure — replaced branching logic with a pattern that's fully covered by tests
+## 💼 The Firmway chapter — *Mar 2026 to Aug 2026*
 
----
+<img src="https://img.shields.io/badge/Status-Completed-lightgrey?style=flat-square"/>
 
-# 👨‍💻 Technologies
+Six months at a Frankfurt-based supply chain intelligence company. Here's what actually happened:
 
-### AI / LLM
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/Python-AI-blue?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-Integration-purple"/>
-<img src="https://img.shields.io/badge/RAG-Pipelines-green"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-orange"/>
-<img src="https://img.shields.io/badge/Claude-D97757"/>
-<img src="https://img.shields.io/badge/Ollama-000000"/>
-</p>
+**The 88% discovery**
 
-### Backend
+Wired distributed tracing across 8 microservices, mostly to stop guessing where our AI pipeline was slow. Two weeks in, the traces showed one single external API call was responsible for 88% of total request time. Nobody had suspected it. The dashboard did the arguing for me.
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-### Frontend
+**The cost tracker that lied twice**
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"/>
-</p>
+Built a real-time system to track what every LLM call actually cost us. It broke silently, twice — once under-reporting output tokens, once about to miscount spend by a third after a pricing change. I caught both. Small catches. Real money.
 
-### Data & Observability
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7"/>
-<img src="https://img.shields.io/badge/Langfuse-black"/>
-</p>
+**The search infrastructure**
 
----
+Built the embedding and semantic-search layer that let retrieval run on actual similarity instead of keyword luck — the invisible plumbing behind every "smart" answer the system gave.
 
-# 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### 📖 Madhav
+**The refactor nobody asked for**
 
-An answer-engine over the Bhagavad Gita that won't cite a verse it can't produce. It runs both keyword and embedding-based retrieval, then checks every citation against the actual source text before letting an answer through — if the verse doesn't exist, neither does the answer.
+Found a legacy module held together by branching logic and switch statements. Rebuilt it into a typed, extensible pattern, fully tested. Nobody noticed. That was the point.
 
-**Stack:** Python · FastAPI · Embeddings · Hybrid Search
+</td>
+</tr>
+</table>
 
-🔗 https://github.com/sidddharthhahir/madhav
+<br/>
 
----
-
-### ⚡ Pulse
-
-An assembly line of AI agents for LinkedIn content — one researches, one ranks the ideas, one writes, all coordinated in sequence. Nothing goes out the door without me approving it first, and every post's real performance gets fed back in so the ranking gets sharper over time.
-
-**Stack:** Python · Multi-agent orchestration · LLM APIs
-
-🔗 https://github.com/sidddharthhahir/Pulse-
-
----
-
-### 🧭 Startup Intelligence Agent
-
-Describe a startup idea and get back something closer to a VC memo than a compliment. Three separate analysis passes — market sizing, competitive landscape, feasibility — each forced into a strict schema, ending in a go-to-market plan and a working landing page, same session.
-
-**Stack:** Next.js · PostgreSQL · TypeScript · Structured LLM output
-
-🔗 https://github.com/sidddharthhahir/startup-intelligence-agent
-
----
-
-### 🎬 MovieWise XAI — Master's Thesis (1.3 / 94 out of 100)
-
-Recommendation systems are usually black boxes; this one has to show its reasoning. Every suggestion comes with a plain-language explanation, generated locally from the same evidence that produced the ranking — nothing sent externally, nothing hidden.
-
-**Stack:** Python · LightFM · TF-IDF · Local LLM (Ollama) · Streamlit
-
-🔗 https://github.com/sidddharthhahir/MovieWise-XAI
-
----
-
-### 📄 AI Resume Customizer
-
-Built this out of frustration with rewriting my own resume for every application. It reads a job description, adjusts emphasis and phrasing to match, and refuses to invent skills you don't have. Also tracks applications and exports clean PDF/DOCX. This is, genuinely, the tool behind the resume that got me my last role.
-
-**Stack:** React · Node.js · MySQL · LLM APIs
-
-🔗 https://github.com/sidddharthhahir/ai-resume-customizer
-
----
-
-# 🎯 Roadmap
-
-**2026 (now):** Staying in the unglamorous parts of AI engineering — cost, latency, and correctness — because that's where systems actually break in production, not in a demo.
-
-**2027:** Moving from "does it work" to "can I prove it works" — building evaluation that reflects real usage, retrieval that survives messy inputs, and agent chains that fail gracefully instead of silently.
-
----
-
-# 🐍 Contribution Snake
+## 🛠️ What's actually in the toolbox
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidddharthhahir/sidddharthhahir/main/github-contribution-grid-snake.svg" />
+<img src="https://skillicons.dev/icons?i=python,java,django,fastapi,nodejs,react,nextjs,typescript,tailwind,postgres,mysql,docker&perline=6"/>
 </p>
-
----
-
-# 🎓 Education
-
-**MSc Data Science** — Arden University, Berlin *(May 2026 – Present)*
-
-**MSc Computer Science** — IU International University of Applied Sciences, Berlin *(Sep 2023 – May 2026, transferred)*
-Thesis: MovieWise XAI — graded 1.3 (94/100)
-
-**Bachelor of Computer Application** — Gujarat University, India *(Jul 2019 – Apr 2022)*
-
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+`LLM Integration` `RAG Pipelines` `Semantic Search` `Claude` `Ollama` `OpenTelemetry` `Langfuse`
+
+</div>
+
+<br/>
+
+## 🚀 Things I built because I wanted them to exist
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📖 Madhav
+**A RAG system with a conscience**
+
+Ask it anything about the Bhagavad Gita. It'll answer — but only if it can point to the exact verse the answer came from. If the citation doesn't check out against the real text, the answer never reaches you. No hallucinated scripture, ever.
+
+`Python` `FastAPI` `Embeddings` `Hybrid Search`
+
+[**→ See the repo**](https://github.com/sidddharthhahir/madhav)
+
+</td>
+<td width="50%">
+
+### ⚡ Pulse
+**Five AI agents, one human veto**
+
+A researcher agent finds topics. A ranker agent picks the good ones. A writer agent drafts them in my voice. Nothing publishes until I say yes — and every post's real performance flows back in, so next week's ranking is smarter than this week's.
+
+`Python` `Multi-agent orchestration` `LLM APIs`
+
+[**→ See the repo**](https://github.com/sidddharthhahir/Pulse-)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧭 Startup Intelligence Agent
+**The AI that told me my idea needed work**
+
+I fed it my own startup idea to test it. It scored it 6/10, told me exactly why, and suggested a sharper angle. Three reasoning passes — market, competition, feasibility — end in a go-to-market plan and a deployable landing page, same session.
+
+`Next.js` `PostgreSQL` `TypeScript` `Structured LLM output`
+
+[**→ See the repo**](https://github.com/sidddharthhahir/startup-intelligence-agent)
+
+</td>
+<td width="50%">
+
+### 🎬 MovieWise XAI
+**A recommender that shows its work**
+
+*Master's thesis · graded 1.3 (94/100)*
+
+Every movie suggestion arrives with a plain-language reason, generated locally from the exact evidence that produced the ranking. No black box. No external API. No data ever leaves the machine.
+
+`Python` `LightFM` `TF-IDF` `Ollama` `Streamlit`
+
+[**→ See the repo**](https://github.com/sidddharthhahir/MovieWise-XAI)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%">
+
+### 📄 AI Resume Customizer
+**The tool that's writing this bio's résumé too**
+
+Built out of pure frustration with rewriting my resume for every single application. Feed it a job description — it adjusts emphasis and phrasing to match, and refuses point-blank to invent a skill you don't have. Tracks every application. Exports clean PDF/DOCX. This is, genuinely, the tool behind the resume that got me my last role.
+
+`React` `Node.js` `MySQL` `LLM APIs`
+
+[**→ See the repo**](https://github.com/sidddharthhahir/ai-resume-customizer)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🗺️ Where this goes next
+
+```
+2026 ─── Staying in the unglamorous parts: cost, latency, correctness.
+          That's where systems actually break — not in the demo.
+                    │
+                    ▼
+2027 ─── Moving from "does it work" to "can I prove it works."
+          Evaluation that reflects real usage. Retrieval that survives
+          messy input. Agents that fail gracefully, not silently.
+```
+
+<br/>
+
+## 📊 The receipts
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sidddharthhahir/sidddharthhahir/main/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+## 🎓 The paper trail
+
+| | | |
+|---|---|---|
+| 🎓 | **MSc Data Science** | Arden University, Berlin · May 2026 – Present |
+| 🎓 | **MSc Computer Science** *(transferred)* | IU International University of Applied Sciences · Sep 2023 – May 2026 · Thesis graded 1.3 (94/100) |
+| 🎓 | **Bachelor of Computer Application** | Gujarat University, India · Jul 2019 – Apr 2022 |
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=150&section=footer&animation=twinkling"/>
+
+**Still reading? Then you're exactly who I want to talk to.**
 
 </div>
