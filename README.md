@@ -22,6 +22,22 @@
 
 <br/>
 
+<div align="center">
+
+## 📡 System Status: `siddharth-ahir`
+
+| Metric | Value | Note |
+|:---|:---:|:---|
+| 🔥 **Incidents caught before prod noticed** | `3` | 2 silent billing bugs + 1 pricing-cliff miscount |
+| 📉 **Largest hidden latency found** | `88%` | one API call, one service, one very long trace |
+| 🧪 **Test coverage on last refactor** | `100%` | typed writer pattern, zero switch statements |
+| 🕵️ **Hallucinated citations shipped** | `0` | Madhav rejects any answer it can't source |
+| ☕ **Current build** | `MSc Data Science` | because I got tired of trusting the maths |
+
+</div>
+
+<br/>
+
 ## 📖 The origin story
 
 I used to think AI engineering meant getting a model to say something clever.
@@ -89,15 +105,104 @@ Found a legacy module held together by branching logic and switch statements. Re
 
 <br/>
 
-## 🛠️ What's actually in the toolbox
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,django,fastapi,nodejs,react,nextjs,ts,tailwind,postgres,mysql,docker&perline=6" alt="Skills"/>
-</p>
+## 🛠️ Where I've actually used this stuff
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/madhav">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<br/><sub><b>Python</b></sub>
+<br/><sub>→ Madhav</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/siddharth-ahir-798754262/">
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+<br/><sub><b>Java</b></sub>
+<br/><sub>→ Firmway</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/MovieWise-XAI">
+<img src="https://skillicons.dev/icons?i=django" width="50"/>
+<br/><sub><b>Django</b></sub>
+<br/><sub>→ MovieWise</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/madhav">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+<br/><sub><b>FastAPI</b></sub>
+<br/><sub>→ Madhav</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/ai-resume-customizer">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+<br/><sub><b>Node.js</b></sub>
+<br/><sub>→ Resume Tool</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/ai-resume-customizer">
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+<br/><sub><b>React</b></sub>
+<br/><sub>→ Resume Tool</sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/startup-intelligence-agent">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+<br/><sub><b>Next.js</b></sub>
+<br/><sub>→ Startup Intel</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/startup-intelligence-agent">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/>
+<br/><sub><b>TypeScript</b></sub>
+<br/><sub>→ Startup Intel</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://sid-portfolio.lovable.app/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+<br/><sub><b>Tailwind</b></sub>
+<br/><sub>→ Portfolio</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/startup-intelligence-agent">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+<br/><sub><b>Postgres</b></sub>
+<br/><sub>→ Startup Intel</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://github.com/sidddharthhahir/ai-resume-customizer">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<br/><sub><b>MySQL</b></sub>
+<br/><sub>→ Resume Tool</sub>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/siddharth-ahir-798754262/">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<br/><sub><b>Docker</b></sub>
+<br/><sub>→ Firmway</sub>
+</a>
+</td>
+</tr>
+</table>
+
 `LLM Integration` `RAG Pipelines` `Semantic Search` `Claude` `Ollama` `OpenTelemetry` `Langfuse`
+
+*Every icon links to where it was actually used — not a generic stack list.*
 
 </div>
 
@@ -206,12 +311,8 @@ Built out of pure frustration with rewriting my resume for every single applicat
 </p>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=sidddharthhahir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <br/>
