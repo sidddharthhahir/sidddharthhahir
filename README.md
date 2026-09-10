@@ -273,7 +273,7 @@ Every movie suggestion arrives with a plain-language reason, generated locally f
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 ### 📄 AI Resume Customizer
 **The tool that's writing this bio's résumé too**
@@ -283,6 +283,18 @@ Built out of pure frustration with rewriting my resume for every single applicat
 `React` `Node.js` `MySQL` `LLM APIs`
 
 [**→ See the repo**](https://github.com/sidddharthhahir/ai-resume-customizer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 RoomSplit
+**Shared-household finances, actually settled**
+
+A full-stack platform for shared households — OCR-parsed receipts, debt simplification, chores, and a shared grocery list, in one place instead of five group chats and a spreadsheet nobody trusts.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `AWS S3`
+
+[**→ See the repo**](https://github.com/sidddharthhahir/roomsplit)
 
 </td>
 </tr>
