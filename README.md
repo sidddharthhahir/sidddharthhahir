@@ -323,7 +323,7 @@ A full-stack platform for shared households — OCR-parsed receipts, debt simpli
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=sidddharthhahir&theme=tokyonight&hide_border=true&cache_bust=20260910" height="165" alt="Streak Stats"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidddharthhahir&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
