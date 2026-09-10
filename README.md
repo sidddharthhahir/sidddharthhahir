@@ -62,7 +62,7 @@ That's still the job, six months and a handful of side projects later — buildi
 
 <br/>
 
-## 💼 The Firmway chapter — *Mar 2026 to Aug 2026*
+## 💼 The Firmway chapter — *Mar 2026 to Sep 2026*
 
 <img src="https://img.shields.io/badge/Status-Completed-lightgrey?style=flat-square"/>
 
@@ -235,7 +235,7 @@ A researcher agent finds topics. A ranker agent picks the good ones. A writer ag
 
 `Python` `Multi-agent orchestration` `LLM APIs`
 
-[**→ See the repo**](https://github.com/sidddharthhahir/Pulse-)
+[**→ See the repo**](https://github.com/sidddharthhahir/Pulse)
 
 </td>
 </tr>
@@ -322,7 +322,7 @@ Built out of pure frustration with rewriting my resume for every single applicat
 | | | |
 |---|---|---|
 | 🎓 | **MSc Data Science** | Arden University, Berlin · May 2026 – Present |
-| 🎓 | **MSc Computer Science** *(transferred)* | IU International University of Applied Sciences · Sep 2023 – May 2026 · Thesis graded 1.3 (94/100) |
+| 🎓 | **MSc Computer Science** *(transferred)* | IU International University of Applied Sciences · Sep 2023 – Apr 2026 · Thesis graded 1.3 (94/100) |
 | 🎓 | **Bachelor of Computer Application** | Gujarat University, India · Jul 2019 – Apr 2022 |
 
 <br/>
